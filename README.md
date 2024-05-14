@@ -13,7 +13,7 @@ RecipieFinder is react food recipe finder project using food2fork Api gives deli
 ## To use this application
 
 ```bash
-git clone https://github.com/Haripriyakarunakaran18/recipie_finder.git
+git clone https://github.com/Haripriyakarunakaran/recipie_finder.git
 cd recipie_finder
 
 ```
